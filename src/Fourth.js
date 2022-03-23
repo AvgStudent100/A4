@@ -205,7 +205,7 @@ class Fourth extends Component {
             </button>
           </div>
         </div>
-        <div className="r">
+        {/* <div className="raa">
           {this.state.onSubmit && (
             <div>
               <label>First Name:{this.state.fname}</label>
@@ -233,8 +233,8 @@ class Fourth extends Component {
               <label>Topic:{this.state.top}</label>
               <br></br>
             </div>
-          )}
-        </div>
+          )} */}
+        {/* </div> */}
       </div>
     );
   }
